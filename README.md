@@ -20,7 +20,7 @@
 I'll send you a python code, change the code how it seems to be diffrent from orginal one, don't forgot to change all variable names, if it is posible change the loops and conditions too
 ```
 
-## مشارکت
+# مشارکت
 
 اگر دلتون میخواد تو کامل کردن ریپو کمک کنین فقط کافیه تکالیف رو انجام بدین و بعد pullrequest بزنین
 
