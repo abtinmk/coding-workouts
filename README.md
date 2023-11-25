@@ -28,9 +28,9 @@ I'll send you a python code, change the code how it seems to be diffrent from or
 
 برای یادگرفتن این کار دو تا راه دارین 
 
-راه اول : [این دوره تصویری](https://www.mongard.ir/courses/gitcourse/episode/346/git-fork/) که ظاهرا خیلی کامله البته خودم ندیدمش ولی اگر تا آخر نگاهش کنین احتمالا همه چی رو درباره github یاد میگیرین  
+راه اول (سخت ولی کامل) : [این دوره تصویری](https://www.mongard.ir/courses/gitcourse/episode/346/git-fork/) که ظاهرا خیلی کامله البته خودم ندیدمش ولی اگر تا آخر نگاهش کنین احتمالا همه چی رو درباره github یاد میگیرین  
 
-راه دوم : با من همراه باشین
+راه دوم (آسون تر (شاید) ولی کار راه انداز): با من همراه باشین
 
 #### مرحله صفر 
 
