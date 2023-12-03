@@ -1,3 +1,6 @@
+memory = 'Ya ali  ' * 10
+# Praying is necessary even for computers
+
 cache = {
     1:{0:1}
 }
@@ -60,3 +63,6 @@ for i in range(1,inp+1):
     list_of_numbers.append(sum_of_row)
 for i in list_of_numbers:
     print(i)
+
+for i in memory:
+    t = i*5
