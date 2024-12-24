@@ -21,7 +21,7 @@ class DFA:
                 result.append(current_string)
             moshahede.append(state)
             for char in self.sigmas:
-                next_state=self.enteghal.get(state,char)
+                next_state=self.enteghal.get(state,{}).get(char)
                 if next_state and next_state not in moshahede:
                     if dfs(next_state,current_string+char,moshahede,result):
                         return True
@@ -33,7 +33,7 @@ class DFA:
             return results[0]
         min_string=min(results,key=len)
         max_string=max(results,key=len)
-        return results[0],results[1],min_string,max_string
+        return results,results[:2],min_string,max_string
 state=input('states:')
 while(state=="\n"):
     state=input()
